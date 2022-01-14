@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a00-eohana-unc/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a00-eohana-unc#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a00-eohana-unc#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
